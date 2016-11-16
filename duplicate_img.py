@@ -1,5 +1,9 @@
 '''
-Duplicate Image comparison
+@author Sabbir Ahmed
+@FindMeBySearch sabbir1cse
+@Web http://sabbir360.blogspot.com
+Duplicate Image comparison and delete.
+Strictly compare every single pixel. So, if its detect as duplicate is true.
 Ref: http://blog.iconfinder.com/detecting-duplicate-images-using-python/
 '''
 
